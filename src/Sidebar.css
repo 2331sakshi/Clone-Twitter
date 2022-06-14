@@ -1,5 +1,4 @@
 .sidebar{
-<<<<<<< HEAD
     border-right: 1.5px solid var(--twitter-color);
     flex:0.3;
     /* margin-top: 20px; */
@@ -8,7 +7,6 @@
     border-right: 1px solid var(--twitter-color);
     flex:0.3;
     margin-top: 20px;
->>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
     padding-left: 20px;
     padding-right: 20px;
 }
