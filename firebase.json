@@ -1,9 +1,7 @@
 {
   "hosting": {
-<<<<<<< HEAD
     "site": "twitter-clone-sakshi",
-=======
->>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
+
     "public": "build",
     "ignore": [
       "firebase.json",
