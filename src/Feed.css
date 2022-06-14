@@ -1,6 +1,10 @@
 .feed{
     flex:0.4;
+<<<<<<< HEAD
     border-right: 1.5px solid var(--twitter-color);
+=======
+    border-right: 1px solid var(--twitter-background);
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
     min-width: fit-content;
     overflow-y: scroll;
 }
@@ -10,7 +14,11 @@
 }
 
 .feed{
+<<<<<<< HEAD
     -ms-overflow-style:auto;
+=======
+    -ms-overflow-style:none;
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
     scrollbar-width: none;
 }
 

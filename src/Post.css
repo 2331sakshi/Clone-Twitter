@@ -2,7 +2,11 @@
     display: flex;
     align-items: flex-start;
     border-bottom: 1px solid var(--twitter-background);
+<<<<<<< HEAD
     /* padding-bottom: 10px; */
+=======
+    padding-bottom: 10px;
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
 }
 
 .post__body{

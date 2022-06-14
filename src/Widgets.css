@@ -1,7 +1,11 @@
 .widgets{
+<<<<<<< HEAD
     flex:1;
     max-width: 500px;
     /* margin:10px; */
+=======
+    flex:0.3;
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
 }
 
 .widgets__input{
@@ -11,7 +15,11 @@
     padding: 10px;
     border-radius: 20px;
     margin-top: 10px;
+<<<<<<< HEAD
     margin: 10px;
+=======
+    margin-left: 20px;
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
 }
 
 .widgets__input > input {
@@ -24,10 +32,16 @@
 }
 
 .widgets__widgetContainer{
+<<<<<<< HEAD
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
     padding: 10px;
+=======
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 20px;
+>>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
     background-color: #f5f8fa;
     border-radius: 20px;
 }
