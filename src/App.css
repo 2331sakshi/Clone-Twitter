@@ -5,16 +5,8 @@ body{
 
 .app{
     display: flex;
-<<<<<<< HEAD
     max-height: 100%;
     margin-left: auto;
     margin-right: auto;
     padding: 10 10px;
-=======
-    height: 100vh;
-    max-width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 10px;
->>>>>>> 847da22f91f53cc2fa83513abf4911118af87efb
 }
