@@ -25,7 +25,7 @@ function TweetBox() {
         <div className="tweetBox">
             <form>
                 <div className="tweetBox__input">
-                    <Avatar>SK</Avatar>
+                    <Avatar>SP</Avatar>
                     <input 
                         onChange={(e) => setTweetMessage(e.target.value)}
                         value={tweetMessage} 
