@@ -16,7 +16,7 @@ function TweetBox() {
             verified: true,
             text : tweetMessage,
             image: tweetImage,
-            avatar: "https://images.app.goo.gl/Y7etdAXaWePfsebL8"
+            avatar: "https://freepngimg.com/thumb/cartoon/7-2-cartoon-picture.png"
         });
         setTweetImage("");
         setTweetMessage("");
@@ -29,7 +29,7 @@ function TweetBox() {
                     <input 
                         onChange={(e) => setTweetMessage(e.target.value)}
                         value={tweetMessage} 
-                        placeholder="What's happening" 
+                        placeholder="What's happening ?" 
                         type="text" 
                     />
                 </div>
