@@ -6,7 +6,6 @@ import './App.css';
 
 function App() {
   return (
-    //BEM convention
     <div className="app">
 
       <Sidebar />
