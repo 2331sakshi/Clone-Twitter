@@ -19,10 +19,9 @@ function Widgets() {
 
                 <TwitterTweetEmbed tweetId={"1332305023888363528"} />
                 <TwitterTweetEmbed tweetId={"1333677773357944834"} />
-                <TwitterTweetEmbed tweetId={"1333674416882864129"} />
 
                 <TwitterTimelineEmbed 
-                    soruceType="profile"
+                    sourceType="profile"
                     screenName="sakshipanchal"
                     options={{ height:400 }}
                 />
